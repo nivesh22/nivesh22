@@ -1,7 +1,7 @@
 # Nivesh Kannan Elangovanraaj  
 **MS in Business Analytics @ UCLA Anderson**  
 **Ex-Lead Data Scientist @ Société Générale | Ex-Flipkart | Ex-Mu Sigma**  
-📍 Los Angeles, CA | 🌎 Open to global opportunities  
+📍 Los Angeles, CA 
 
 ---
 
@@ -15,7 +15,7 @@ I’m currently pursuing my **MS in Business Analytics at UCLA Anderson**, focus
 
 ---
 
-### 🧰 Skillset
+### Skillset
 
 **Languages:** Python, SQL, R, PySpark  
 **ML & AI:** Supervised & Unsupervised Learning, NLP, Forecasting, Anomaly Detection  
@@ -26,7 +26,7 @@ I’m currently pursuing my **MS in Business Analytics at UCLA Anderson**, focus
 
 ---
 
-### 🏆 Highlights
+### Highlights
 
 - Increased Net Banking Income by **$27M** through AI-driven liquidity forecasting at Société Générale  
 - Improved Flipkart’s customer experience by **800 bps in NPS**, adding **$5M** in annual value  
@@ -35,26 +35,19 @@ I’m currently pursuing my **MS in Business Analytics at UCLA Anderson**, focus
 
 ---
 
-### 🎓 Education
+### Education
 
 **M.S. in Business Analytics**, UCLA Anderson School of Management (Expected Dec 2026)  
 **B.E. in Electrical & Electronics Engineering**, Anna University  
 
 ---
 
-### 📫 Let’s connect
+### Let’s connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/nivesh-elangovanraaj/)  
 📧 [nivesh@ucla.edu](mailto:nivesh@ucla.edu)  
 📄 [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=X_vjctwAAAAJ)  
-🌐 Coming soon: [nivesh.dev](#)
+🌐 [nivesh.uk](#https://nivesh.uk)
 
----
-
-### ✨ Fun facts
-
-- I love exploring LA’s trails and capturing landscapes on film  
-- I’m building my **personal portfolio site** and GitHub projects around real-world analytics themes  
-- My goal: make data science *simple, explainable, and impactful*  
 
 ---
