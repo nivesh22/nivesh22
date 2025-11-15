@@ -47,7 +47,7 @@ I’m currently pursuing my **MS in Business Analytics at UCLA Anderson**, focus
 💼 [LinkedIn](https://www.linkedin.com/in/nivesh-elangovanraaj/)  
 📧 [nivesh@ucla.edu](mailto:nivesh@ucla.edu)  
 📄 [Google Scholar](https://scholar.google.co.in/citations?hl=en&user=X_vjctwAAAAJ)  
-🌐 [nivesh.uk](#https://nivesh.uk)
+🌐 [nivesh.uk](https://nivesh.uk)
 
 
 ---
