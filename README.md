@@ -209,7 +209,7 @@ CX Impact (NPS)          +8 points
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoft-outlook)](mailto:nivesh@ucla.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/nivesh-elangovanraaj)
 [![Google Scholar](https://img.shields.io/badge/Scholar-1A73E8?style=for-the-badge\&logo=google-scholar)](https://scholar.google.com/citations?user=X_vjctwAAAAJ)
-[![Portfolio](https://img.shields.io/badge/Website-FF7139?style=for-the-badge\&logo=firefox-browser)](https://nivesh.uk)
+[![Portfolio](https://img.shields.io/badge/Website-FF7139?style=for-the-badge\&logo=firefox-browser)](https://www.nivesh.uk/?utm_source=github&utm_medium=readme&utm_campaign=profile)
 
 </div>
 
