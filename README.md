@@ -1,4 +1,4 @@
-# 📊 **Nivesh Elangovanraaj | Data Scientist & ML Engineer**
+
 
 <div align="center">
 
@@ -80,14 +80,6 @@ LLM Evaluation          █████████████░░░░  Adv
 
 
 
-# 🌐 **Skills Radar**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/skills-radar.svg" width="360" alt="Skills Radar">
-
-</div>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/divider.svg" width="100%">
@@ -142,13 +134,18 @@ LLM Evaluation          █████████████░░░░  Adv
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=liquidity_forecasting&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nivesh22/clinical-trials-copilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=clinical-trials-copilot&theme=tokyonight" />
+<a href="https://github.com/nivesh22/minutes_of_meeting_generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=minutes_of_meeting_generator&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/nivesh22/ESG-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=ESG-Dashboard&theme=tokyonight" />
+<a href="https://github.com/nivesh22/esg_dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=esg_dashboard&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/nivesh22/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=portfolio-website&theme=tokyonight" />
+</a>
+
 
 </div>
 
@@ -228,11 +225,6 @@ CX Impact (NPS)          +8 points
 
 </div>
 
-
-
-# 🧠 **Fun fact about me**
-
-> Solo-traveling across India and eight countries taught me that randomness beats recommendation systems.
 
 
 
