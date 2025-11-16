@@ -51,7 +51,7 @@ Data Engineering        ████████████░░░░░  Int
 Generative AI           █████████████░░░░  Advanced
 ```
 
-## 🧰 Tech Stack Badges
+## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r)
@@ -86,13 +86,13 @@ Generative AI           █████████████░░░░  Adv
 
 # 📚 **Current Research & Projects**
 
-| Focus                       | Description                                                                                              |
-|  | -- |
-| **Clinical-Trials Copilot** | AI tool that extracts endpoints, eligibility, flow, and structure from clinical PDFs + trial registries. |
-| **ML Engineering**          | Kedro pipelines, Jenkins/GHA CI/CD, Dockerized ML services.                                              |
-| **Forecasting**             | Liquidity modeling (ARDL, seasonality, calendar effects), multi-horizon predictions.                     |
-| **NLP**                     | Parsing trader messages, entity extraction, instrument/intent identification.                            |
-| **LLMs**                    | RAG, retrieval pipelines, embedding stores, evaluation harnesses.                                        |
+| **Focus** | **Description** |
+|-----------|-----------------|
+| **Clinical-Trials Copilot** | AI tool that extracts endpoints, eligibility, flow and structure from clinical PDFs and trial registries. |
+| **ML Engineering** | Kedro pipelines, Jenkins and GitHub Actions CI/CD, Dockerized ML services. |
+| **Forecasting** | Liquidity modeling with ARDL, seasonality analysis, calendar effects and multi-horizon predictions. |
+| **NLP** | Parsing trader messages, entity extraction, instrument and intent identification. |
+| **LLMs** | Retrieval pipelines, embedding stores, RAG workflows and evaluation harnesses. |
 
 
 
