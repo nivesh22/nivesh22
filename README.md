@@ -22,17 +22,13 @@
 
 # 🔬 **About Me**
 
-I’m a data scientist with **7 years of experience** across finance, healthcare and e-commerce, focused on building **end-to-end ML systems**:
+I am a data scientist with seven years of experience building end-to-end machine learning systems in finance, healthcare and e-commerce. I enjoy taking unclear business problems and turning them into clear, scalable pipelines that deliver reliable predictions.
 
-* defining ambiguous business problems
-* building robust data pipelines
-* training + validating models
-* deploying with CI/CD
-* communicating insights with stakeholders
+My work sits at the overlap of statistics, engineering and real-world text. I tend to gravitate toward difficult, context-heavy domains such as liquidity forecasting, customer experience modeling and clinical research. NLP shows up often in my projects, especially when the data is messy and the language is specialized.
 
-My work blends **statistical rigor**, **ML engineering discipline**, and strong intuition for **NLP + domain-heavy text parsing** (finance, clinical research, ops).
+I have published six peer-reviewed papers, deployed twelve production ML systems and contributed to more than 27 million dollars in measurable impact. 
 
-I’ve authored **six peer-reviewed publications**, deployed **12 production ML systems**, and contributed to **$27M+ in financial impact**.
+Outside of work, I am a solo traveler at heart and have explored most of India and several other countries. I like meeting people, learning their stories and carrying those perspectives into the way I approach data and problem solving.
 
 <div align="center">
 
@@ -52,7 +48,7 @@ Statistical Modeling    ████████████████░  Exp
 NLP / Text Parsing      ██████████████░░░  Advanced
 Forecasting             ██████████████░░░  Advanced
 Data Engineering        ████████████░░░░░  Intermediate
-LLM Evaluation          █████████████░░░░  Advanced
+Generative AI           █████████████░░░░  Advanced
 ```
 
 ## 🧰 Tech Stack Badges
