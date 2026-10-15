@@ -1,232 +1,72 @@
+# Nivesh Kannan Elangovanraaj
 
+### Data Scientist · Applied AI Builder · UCLA Anderson MSBA ’26
 
-<div align="center">
+I build forecasting models, AI assistants, and data pipelines that turn business problems into working systems. I bring **8 years of analytics and data science experience** across banking, e-commerce, and healthcare, including leading a data science team at **Société Générale**.
 
-<!-- HERO BANNER -->
+Today, I’m combining that experience with hands-on AI engineering: tool-using assistants, evaluation harnesses, model fallbacks, observability, and deployed applications.
 
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/hero_banner.svg" width="100%" alt="Nivesh Elangovanraaj Hero Banner">
+**Open to Senior Data Scientist, Applied AI Engineer, and Forward Deployed Engineer opportunities · Available January 2027**
 
-</div>
+[Live AI app](https://greenwindow-one.vercel.app) · [LinkedIn](https://linkedin.com/in/nivesh-elangovanraaj) · [Portfolio](https://www.nivesh.uk/) · [Google Scholar](https://scholar.google.com/citations?user=X_vjctwAAAAJ) · [Email](mailto:nivesh@ucla.edu)
 
+---
 
+## Experience with measurable results
 
-<div align="center">
+- **Société Générale — Lead Data Scientist:** Built and deployed liquidity forecasting models supporting treasury decisions across countries and currencies, contributing to approximately **$27M in net banking income uplift over two years**. Led three data scientists and built pipelines with PySpark, Kedro, and CI/CD.
+- **Flipkart — Senior Business Analytics:** Built customer experience models that helped improve **NPS by 8 points**, and translated analytical findings into operational changes.
+- **Mu Sigma / Johnson & Johnson:** Worked on real-world evidence and health economics research, from study design and statistical analysis through publication. **Co-authored six peer-reviewed papers.**
 
-<!-- STATS STRIP -->
+Currently completing my **M.S. in Business Analytics at UCLA Anderson**, graduating December 2026.
 
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/stats-strip.svg" width="560" alt="Stats Strip">
+## Start here: projects you can inspect
 
-</div>
+### [GreenWindow — forecasting + a tool-using AI assistant](https://github.com/nivesh22/greenwindow)
+**[Try the app →](https://greenwindow-one.vercel.app)**
 
+When should you run a flexible electricity-consuming job? GreenWindow forecasts Great Britain’s grid carbon intensity for the next 48 hours and recommends a start time, with uncertainty made visible.
 
+- Compares classical time-series models with Chronos-2 and a blended forecast; includes backtests and a live model leaderboard.
+- Uses a custom TypeScript agent harness: deterministic tools calculate schedules and emissions estimates, while the LLM handles conversation.
+- Includes grounding checks, model failover, cost budgets, traces, and **63 golden evaluation scenarios** with deterministic replay in CI.
 
-# 🔬 **About Me**
+**Stack:** Python, TypeScript, React, Vercel, GitHub Actions, Postgres.
 
-I am a data scientist with seven years of experience building end-to-end machine learning systems in finance, healthcare and e-commerce. I enjoy taking unclear business problems and turning them into clear, scalable pipelines that deliver reliable predictions.
+### [Pharmaceutical Dispatch — multi-agent planning](https://github.com/nivesh22/MSBA_AI_Agents_Demo)
+A LangGraph workflow that combines shipment data, operating rules, weather, and resource constraints into a dispatch report. Includes structured audit feedback, bounded plan revision, and disruption scenarios.
 
-My work sits at the overlap of statistics, engineering and real-world text. I tend to gravitate toward difficult, context-heavy domains such as liquidity forecasting, customer experience modeling and clinical research. NLP shows up often in my projects, especially when the data is messy and the language is specialized.
+**Stack:** Python, LangGraph, LangChain, pandas.
 
-I have published six peer-reviewed papers, deployed twelve production ML systems and contributed to more than 27 million dollars in measurable impact. 
+### [Society to Music — cloud data engineering](https://github.com/nivesh22/society-to-music)
+A UCLA team project exploring the relationship between news sentiment and music listening. Connects GDELT and Spotify data through Kedro and PySpark pipelines, GCP Dataproc, and Snowflake, with a React dashboard and GitHub Actions deployment workflows.
 
-Outside of work, I am a solo traveler at heart and have explored most of India and several other countries. I like meeting people, learning their stories and carrying those perspectives into the way I approach data and problem solving.
+**Stack:** Python, Kedro, PySpark, GCP, Snowflake, React.
 
-<div align="center">
+### [Liquidity Forecasting — reproducible modeling workflow](https://github.com/nivesh22/Liquidity_forecasting)
+A public demonstration using synthetic data, modular Kedro pipelines, and a Streamlit dashboard to explore deposits, interest rates, and forecasting. Shows the workflow separately from confidential employer implementations.
 
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/divider.svg" width="100%">
+**Stack:** Python, Kedro, Streamlit.
 
-</div>
+## How I approach the work
 
+I start with the decision a system needs to support, establish a baseline, and build the data and evaluation workflow around it. For AI applications, I use deterministic code for calculations and actions, test model behavior against concrete scenarios, and make failures and costs observable.
 
+My strongest domains are **financial forecasting, healthcare analytics and real-world evidence, customer analytics, and applied AI workflows**.
 
-# 🚀 **Skills Visualization**
+| Area | Tools and methods |
+| --- | --- |
+| Modeling and analysis | Python, R, SQL, scikit-learn, time series, statistical modeling, causal inference |
+| Applied AI | LLM tool use, RAG, LangGraph, LangChain, evaluation harnesses, grounding checks |
+| Data and ML engineering | PySpark, Kedro, Snowflake, Docker, Jenkins, GitHub Actions |
+| Applications and reporting | TypeScript, React, FastAPI, Streamlit, Power BI, Tableau |
 
-## 🧠 Skill Bars
+## Research and recognition
 
-```
-Machine Learning        ████████████████░  Expert
-Statistical Modeling    ████████████████░  Expert
-NLP / Text Parsing      ██████████████░░░  Advanced
-Forecasting             ██████████████░░░  Advanced
-Data Engineering        ████████████░░░░░  Intermediate
-Generative AI           █████████████░░░░  Advanced
-```
+**Six peer-reviewed publications** in clinical outcomes and health economics. [View publications on Google Scholar →](https://scholar.google.com/citations?user=X_vjctwAAAAJ)
 
-## 🧰 Tech Stack
+**Top-10 Employee of the Year, Société Générale India.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge\&logo=pandas)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=PowerBI\&logoColor=000)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge\&logo=mysql)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-1A73E8?style=for-the-badge\&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge\&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge\&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions)
+---
 
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/divider.svg" width="100%">
-
-</div>
-
-
-
-# 📚 **Current Research & Projects**
-
-| **Focus** | **Description** |
-|-----------|-----------------|
-| **Clinical-Trials Copilot** | AI tool that extracts endpoints, eligibility, flow and structure from clinical PDFs and trial registries. |
-| **ML Engineering** | Kedro pipelines, Jenkins and GitHub Actions CI/CD, Dockerized ML services. |
-| **Forecasting** | Liquidity modeling with ARDL, seasonality analysis, calendar effects and multi-horizon predictions. |
-| **NLP** | Parsing trader messages, entity extraction, instrument and intent identification. |
-| **LLMs** | Retrieval pipelines, embedding stores, RAG workflows and evaluation harnesses. |
-
-
-
-# 📈 **GitHub Analytics**
-
-<div align="center">
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=nivesh22&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nivesh22&show_icons=true" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivesh22&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivesh22&layout=compact" />
-</picture>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivesh22&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/divider.svg" width="100%">
-
-</div>
-
-
-
-# 🏆 **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/nivesh22/liquidity_forecasting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=liquidity_forecasting&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nivesh22/minutes_of_meeting_generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=minutes_of_meeting_generator&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nivesh22/esg_dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=esg_dashboard&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/nivesh22/portfolio-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nivesh22&repo=portfolio-website&theme=tokyonight" />
-</a>
-
-
-</div>
-
-
-
-# 📊 **Career Impact Metrics**
-
-<details open>
-<summary><strong>📌 Key Stats</strong></summary>
-
-```
-Models Deployed          12
-Datasets Analyzed        ~120+
-NLP System Precision     95%
-Peer-reviewed Papers     6+
-Financial Impact         $27M+
-CX Impact (NPS)          +8 points
-```
-
-</details>
-
-
-
-# 📜 **Publications**
-
-<details open>
-<summary><strong>📚 Full List</strong></summary>
-
-* Surgical stapling comparative outcomes — *Medical Devices*
-* Spinal fusion economic outcomes — *The Spine Journal*
-* COVID-19 treatment patterns — *IJGM*
-* Surgical site infection after cesarean — *AJOG Global Reports*
-* Sternotomy closure outcomes — *Journal of Cardiothoracic Surgery*
-* Multiple **Value in Health** papers (CO3, IN3, PIN117, PIN108…)
-
-</details>
-
-
-
-# 🏅 **Achievements**
-
-<details open>
-<summary><strong>🏆 Highlights</strong></summary>
-
-* **Top-10 Employee of the Year**, Société Générale
-* Designed & deployed liquidity models driving **$27M uplift**
-* Built CI/CD ML ecosystem in a regulated environment
-* Improved NPS by **8 points** at Flipkart
-* Co-authored **six clinical research publications**
-
-</details>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/divider.svg" width="100%">
-
-</div>
-
-
-
-# 🤝 **Connect With Me**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=microsoft-outlook)](mailto:nivesh@ucla.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/nivesh-elangovanraaj)
-[![Google Scholar](https://img.shields.io/badge/Scholar-1A73E8?style=for-the-badge\&logo=google-scholar)](https://scholar.google.com/citations?user=X_vjctwAAAAJ)
-[![Portfolio](https://img.shields.io/badge/Website-FF7139?style=for-the-badge\&logo=firefox-browser)](https://www.nivesh.uk/?utm_source=github&utm_medium=readme&utm_campaign=profile)
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nivesh22/mysvgs/main/footer-banner.svg" width="100%">
-
-</div>
-
-
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nivesh22&label=Profile%20views&color=0e75b6&style=flat" />
-</div>
-
-
-
+If your team needs someone who can connect a business problem to statistical modeling, engineering, and a usable AI application, [let’s talk](mailto:nivesh@ucla.edu).
